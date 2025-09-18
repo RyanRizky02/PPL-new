@@ -18,9 +18,3 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ryanrizky&show_icons=true&theme=tokyonight)
 
 ---
-
-### 🌟 Featured Projects
-- [📦 Inventory System with Laravel](https://github.com/ryanrizky/project1)  
-- [🤖 Machine Learning Playground](https://github.com/ryanrizky/project2)
-
----
